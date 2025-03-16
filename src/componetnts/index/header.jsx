@@ -40,7 +40,7 @@ function Header() {
                         درباره ما
                     </button>
                 </div>
-                <div className=' max-w-[50%] w-[50%] lgmax:max-w-full flex justify-center items-center'>
+                <div className=' max-w-[50%] lgmax:max-w-full flex justify-center items-center'>
                     <div className=' w-full h-full'>
                         <Slider {...settings}>
                             {
