@@ -4,8 +4,8 @@ import "slick-carousel/slick/slick-theme.css"
 
 function Header() {
     const arr = [
-        "https://raw.githubusercontent.com/sobhansefidkar/vandad-images/refs/heads/main/images/headers/header.webp",
-        "https://raw.githubusercontent.com/sobhansefidkar/vandad-images/refs/heads/main/images/headers/header.webp"
+        "../../images/header.webp",
+        "../../images/header.webp"
     ]
 
     const settings = {
